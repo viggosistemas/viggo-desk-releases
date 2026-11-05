@@ -1,0 +1,15 @@
+{
+  "tag_name": "v1.4.9",
+  "html_url": "https://github.com/viggosistemas/viggo-desk-releases/tree/main/releases/v1.4.9",
+  "body": "beb5b2f02c0d66564f6923471966df7090699c10859db2c580499cce861c42e6  ViggoAcesso-1.4.9-x86_64.exe\nd279fa778f904511620f86104d177849881630bc79c4ddc8af2250b13fcec7cf  ViggoDesk-1.4.9-x86_64.exe\n",
+  "assets": [
+    {
+      "name": "ViggoAcesso-1.4.9-x86_64.exe",
+      "browser_download_url": "https://raw.githubusercontent.com/viggosistemas/viggo-desk-releases/main/releases/v1.4.9/ViggoAcesso-1.4.9-x86_64.exe"
+    },
+    {
+      "name": "ViggoDesk-1.4.9-x86_64.exe",
+      "browser_download_url": "https://raw.githubusercontent.com/viggosistemas/viggo-desk-releases/main/releases/v1.4.9/ViggoDesk-1.4.9-x86_64.exe"
+    }
+  ]
+}
