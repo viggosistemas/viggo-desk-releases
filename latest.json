@@ -1,15 +1,15 @@
 {
-  "tag_name": "v1.4.11",
-  "html_url": "https://github.com/viggosistemas/viggo-desk-releases/tree/main/releases/v1.4.11",
-  "body": "fd960ac8c5e5419baf6d1c909712dc469f55512d7bca7136971a988993c6cb7b  ViggoAcesso-1.4.11-x86_64.exe\n3f542395edb4f8e05e2fdc63c40277267a6c9c4c5933db683ff80ecaef1330b9  ViggoDesk-1.4.11-x86_64.exe\n",
+  "tag_name": "v1.4.12",
+  "html_url": "https://github.com/viggosistemas/viggo-desk-releases/tree/main/releases/v1.4.12",
+  "body": "4155f2ae5b13d0aa2481ef5cf842d105cb9253a6f545c924e18e27a2752099e1  ViggoAcesso-1.4.12-x86_64.exe\n93b27374047c71217ac020f29858a68a178fbf6de16f39b00fbd737ebe481839  ViggoDesk-1.4.12-x86_64.exe\n",
   "assets": [
     {
-      "name": "ViggoAcesso-1.4.11-x86_64.exe",
-      "browser_download_url": "https://raw.githubusercontent.com/viggosistemas/viggo-desk-releases/main/releases/v1.4.11/ViggoAcesso-1.4.11-x86_64.exe"
+      "name": "ViggoAcesso-1.4.12-x86_64.exe",
+      "browser_download_url": "https://raw.githubusercontent.com/viggosistemas/viggo-desk-releases/main/releases/v1.4.12/ViggoAcesso-1.4.12-x86_64.exe"
     },
     {
-      "name": "ViggoDesk-1.4.11-x86_64.exe",
-      "browser_download_url": "https://raw.githubusercontent.com/viggosistemas/viggo-desk-releases/main/releases/v1.4.11/ViggoDesk-1.4.11-x86_64.exe"
+      "name": "ViggoDesk-1.4.12-x86_64.exe",
+      "browser_download_url": "https://raw.githubusercontent.com/viggosistemas/viggo-desk-releases/main/releases/v1.4.12/ViggoDesk-1.4.12-x86_64.exe"
     }
   ]
 }
