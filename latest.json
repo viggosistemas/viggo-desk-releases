@@ -1,19 +1,19 @@
 {
-  "tag_name": "v1.4.14",
-  "html_url": "https://github.com/viggosistemas/viggo-desk-releases/tree/main/releases/v1.4.14",
-  "body": "0737bb823d447877c9623c0faad4a8ebb7e4ac9ae7d5905afcdcb115fdb052de  ViggoAcesso-1.4.14-x86_64.exe\nd07c89f347b8782830fb7a3908d77e85c4672445d17889e2cd33da3e0f065dd4  ViggoDesk-1.4.14-x86_64.exe\na6cfcee16800784c6d395049bf18392ddc128ab1c10e54b21e66a11e60b1f30c  ViggoAcesso-1.4.14-x86.exe\n",
+  "tag_name": "v1.4.15",
+  "html_url": "https://github.com/viggosistemas/viggo-desk-releases/tree/main/releases/v1.4.15",
+  "body": "654e10e2cca7f4734f112637186de63202b5126e9c0b57b5140fc84714f795cc  ViggoAcesso-1.4.15-x86_64.exe\nd599e2f9db54b8bcca69d48ac22247f50f5b15bac43805fab3689476e70ed08e  ViggoDesk-1.4.15-x86_64.exe\nae5ee9a3319500c06165882e4af13478b2dc0901d7bb61a04e4fd91c15ed5a32  ViggoAcesso-1.4.15-x86.exe\n",
   "assets": [
     {
-      "name": "ViggoAcesso-1.4.14-x86_64.exe",
-      "browser_download_url": "https://raw.githubusercontent.com/viggosistemas/viggo-desk-releases/main/releases/v1.4.14/ViggoAcesso-1.4.14-x86_64.exe"
+      "name": "ViggoAcesso-1.4.15-x86_64.exe",
+      "browser_download_url": "https://raw.githubusercontent.com/viggosistemas/viggo-desk-releases/main/releases/v1.4.15/ViggoAcesso-1.4.15-x86_64.exe"
     },
     {
-      "name": "ViggoDesk-1.4.14-x86_64.exe",
-      "browser_download_url": "https://raw.githubusercontent.com/viggosistemas/viggo-desk-releases/main/releases/v1.4.14/ViggoDesk-1.4.14-x86_64.exe"
+      "name": "ViggoDesk-1.4.15-x86_64.exe",
+      "browser_download_url": "https://raw.githubusercontent.com/viggosistemas/viggo-desk-releases/main/releases/v1.4.15/ViggoDesk-1.4.15-x86_64.exe"
     },
     {
-      "name": "ViggoAcesso-1.4.14-x86.exe",
-      "browser_download_url": "https://raw.githubusercontent.com/viggosistemas/viggo-desk-releases/main/releases/v1.4.14/ViggoAcesso-1.4.14-x86.exe"
+      "name": "ViggoAcesso-1.4.15-x86.exe",
+      "browser_download_url": "https://raw.githubusercontent.com/viggosistemas/viggo-desk-releases/main/releases/v1.4.15/ViggoAcesso-1.4.15-x86.exe"
     }
   ]
 }
