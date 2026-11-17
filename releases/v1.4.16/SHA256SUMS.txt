@@ -1,0 +1,3 @@
+c7310488faf34c00696718fdc2bc9e575253bde2745c8034710b52efdd8da9bf  ViggoAcesso-1.4.16-x86_64.exe
+75459b9bc12ab68bd1a4b03b3be83ee9054f3ce8d3b077f7e0ece44b4f6f1d3c  ViggoDesk-1.4.16-x86_64.exe
+e098db3de1acab519175374efc6d17a5670ae3f863ad4738cec316db40bcef8e  ViggoAcesso-1.4.16-x86.exe
